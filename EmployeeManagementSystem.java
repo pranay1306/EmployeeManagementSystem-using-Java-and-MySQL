@@ -10,7 +10,7 @@ public class EmployeeManagementSystem {
     private static final String DB_URL = "jdbc:mysql://127.0.0.1:3306/EmployeeDB";
     private static final String DB_USER = "root";
     private static final String DB_PASSWORD = "psjkagap6";
-// jdbc:mysql://127.0.0.1:3306/?user=root
+
     // GUI components
     private JFrame frame;
     private JTextField nameField, ageField, departmentField, salaryField;
