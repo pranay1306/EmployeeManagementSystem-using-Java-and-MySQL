@@ -42,7 +42,7 @@ CREATE TABLE Employees (
 1. Clone this repository:
    ```sh
    git clone https://github.com/pranay1306/EmployeeManagementSystem-using-Java-and-MySQL.git
-   cd employee-management-system
+   cd EmployeeManagementSystem-using-Java-and-MySQL
    ```
 
 2. Compile and run the program:
