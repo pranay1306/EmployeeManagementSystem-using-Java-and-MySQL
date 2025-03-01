@@ -52,5 +52,5 @@ CREATE TABLE Employees (
    ```
 
 ## Screenshots
-(Add screenshots of the application here)
+(images/Screenshot.png)
 
