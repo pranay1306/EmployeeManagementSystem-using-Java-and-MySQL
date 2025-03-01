@@ -52,5 +52,5 @@ CREATE TABLE Employees (
    ```
 
 ## Screenshots
-!(images/Screenshot.png)
+![](images/Screenshot.png)
 
